@@ -24,6 +24,7 @@ By default, pull requests are based on the parent repository's default branch. F
 If the default parent repository isn't correct, you can change both the parent repository and the branch with the drop-down lists. You can also swap your head and base branches with the drop-down lists to establish diffs between reference points. References here must be branch names in your GitHub repository.
 
 ![Pull Request editing branches](/assets/images/help/pull_requests/pull-request-review-edit-branch.png)
+hi
 
 When thinking about branches, remember that the *base branch* is **where** changes should be applied, the *head branch* contains **what** you would like to be applied.
 
